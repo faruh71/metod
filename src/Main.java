@@ -36,7 +36,6 @@ public class Main {
     }
     static String  words= "Потребуется дней: ";
     public static void  task3(int deliwery) {
-
         int time =0;
         for (int i = -20; i < deliwery ; i+=40) {
             time++;
